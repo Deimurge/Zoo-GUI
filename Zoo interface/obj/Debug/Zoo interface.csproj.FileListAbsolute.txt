@@ -1,0 +1,34 @@
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\bin\Debug\Zoo interface.exe.config
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\bin\Debug\Zoo interface.exe
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\bin\Debug\Zoo interface.pdb
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\obj\Debug\Zoo interface.csproj.AssemblyReference.cache
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\obj\Debug\Zoo_interface.Form1.resources
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\obj\Debug\Zoo_interface.Properties.Resources.resources
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\obj\Debug\Zoo interface.csproj.GenerateResource.cache
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\obj\Debug\Zoo interface.csproj.CoreCompileInputs.cache
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\obj\Debug\Zoo interface.exe
+C:\Users\lloyd\source\repos\ASP'NET\Zoo interface\Zoo interface\obj\Debug\Zoo interface.pdb
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\bin\Debug\Zoo interface.exe.config
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\bin\Debug\Zoo interface.exe
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\bin\Debug\Zoo interface.pdb
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\obj\Debug\Zoo interface.csproj.AssemblyReference.cache
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\obj\Debug\Zoo_interface.Form1.resources
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\obj\Debug\Zoo_interface.Properties.Resources.resources
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\obj\Debug\Zoo interface.csproj.GenerateResource.cache
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\obj\Debug\Zoo interface.csproj.CoreCompileInputs.cache
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\obj\Debug\Zoo interface.exe
+C:\Users\lloyd\Downloads\PRG521_FA3_Liam_Lloyd_20230475\Zoo interface\Zoo interface\obj\Debug\Zoo interface.pdb
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\bin\Debug\Zoo interface.exe.config
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\bin\Debug\Zoo interface.exe.manifest
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\bin\Debug\Zoo interface.application
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\bin\Debug\Zoo interface.exe
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\bin\Debug\Zoo interface.pdb
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\obj\Debug\Zoo interface.csproj.AssemblyReference.cache
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\obj\Debug\Zoo_interface.Form1.resources
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\obj\Debug\Zoo_interface.Properties.Resources.resources
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\obj\Debug\Zoo interface.csproj.GenerateResource.cache
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\obj\Debug\Zoo interface.csproj.CoreCompileInputs.cache
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\obj\Debug\Zoo interface.exe.manifest
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\obj\Debug\Zoo interface.application
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\obj\Debug\Zoo interface.exe
+C:\Users\lloyd\Source\Repos\Deimurge\Zoo-GUI\Zoo interface\Zoo interface\Zoo interface\obj\Debug\Zoo interface.pdb
